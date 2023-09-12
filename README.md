@@ -9,7 +9,7 @@ Calendar application that allows a user to save events for each hour of a typica
 n/a
 
 ## Usage
-Link to deployed application: https://hjlee17.github.io/05-work-day-scheduler/
+Link to deployed application: https://hjlee17.github.io/05-8-hour-work-day-hourly-scheduler/
 
 A user can schedule and save events for each hour from 9am-5pm.
 ![Timed JavaScript Fundamentals Quiz Application.](assets/images/sc-window.png)
