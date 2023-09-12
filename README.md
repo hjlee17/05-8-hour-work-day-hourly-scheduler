@@ -1,8 +1,8 @@
-# 04-timed-javascript-fundamentals-quiz
+# 05-8-hour-work-day-hourly-scheduler
 
 ## Description
 
-Calendar application that allows a user to save events for each hour of a typical working day (9am–5pm). The application will display the current day and time. Timeblocks are color-coded to indicate whether it is in the past, present or future. Events are saved in the local storage.
+Calendar application that allows a user to save events for each hour of a typical 8-hour working day (starting at 9am, ending at 5pm, the last time block is from 4pm-5pm). The application will display the current day and time. Timeblocks are color-coded to indicate whether it is in the past, present or future. Events are saved in the local storage.
 
 ## Installation
 
